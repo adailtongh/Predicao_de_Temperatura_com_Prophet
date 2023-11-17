@@ -4,10 +4,10 @@ Foi utilizado o algoritmos FB Prophet que é muito flexivel para uso e tratament
 
 Onde podemos aplicar esses conceitos no mundo real dos negocios?
 
--Podemos aplicar o mesmo conceito em diversas situações:
+Podemos aplicar o mesmo conceito em diversas situações:
 
--Prever o valor futuro de faturamento de um cliente específico ou uma linha de produto
+Prever o valor futuro de faturamento de um cliente específico ou uma linha de produto
 
--Definir a produtividade em linhas de produção
+Definir a produtividade em linhas de produção
 
--Planejar forcast financeiro do próximo periodo com base historiaca e comparar com resultado real
+Planejar forcast financeiro do próximo periodo com base historiaca e comparar com resultado real
